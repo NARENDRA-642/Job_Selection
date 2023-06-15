@@ -1,5 +1,5 @@
 🔵Generally the process start with data collection of students.
-
+//Add the SQL DATA HERE
 🟠Then sending messages to the students that they are selected for interview.
 
 🟣Every Interview has two rounds... 1️⃣Aptitude Round 2️⃣Personal Interview ✒️In my project , I add the features of
